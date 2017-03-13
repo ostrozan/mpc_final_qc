@@ -29,7 +29,7 @@ void setup()
   //SD.begin(sd);
   pinMode(sdo, OUTPUT);
   pinMode(sensor, INPUT);
-  pinMode(piezo, OUTPUT);
+  pinMode(piezo, INPUT);
   pinMode(cervena, OUTPUT);
   pinMode(zelena, OUTPUT);
   pinMode(bila, OUTPUT);
