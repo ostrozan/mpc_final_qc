@@ -17,6 +17,7 @@ int cervena = 2;
 int zelena = 3;
 int bila = 5;
 int modra = 6;
+int test;
 String text;
 LiquidCrystal LCD(7, 8, 9, 10, 11, 12);
 
